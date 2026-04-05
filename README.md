@@ -9,7 +9,7 @@ A machine learning model that classifies movie reviews as
 positive or negative using NLP techniques, deployed as a
 live interactive web application.
 
-**[Live Demo](YOUR_STREAMLIT_URL_HERE)**
+**[Live Demo](https://movie-review-sentiment-analyzer-with-a-web-app-fimymdvsfyagxv9.streamlit.app/)**
 
 ---
 
